@@ -11,6 +11,7 @@
 		680E07D425CDE882000B3D99 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680E07D325CDE882000B3D99 /* ContentView.swift */; };
 		680E07D625CDE884000B3D99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 680E07D525CDE884000B3D99 /* Assets.xcassets */; };
 		680E07D925CDE884000B3D99 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 680E07D825CDE884000B3D99 /* Preview Assets.xcassets */; };
+		680E07E225CE29B1000B3D99 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 680E07E125CE29B1000B3D99 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		680E07D525CDE884000B3D99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		680E07D825CDE884000B3D99 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		680E07DA25CDE884000B3D99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		680E07E125CE29B1000B3D99 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				680E07D125CDE882000B3D99 /* HWS_BetterRestApp.swift */,
 				680E07D325CDE882000B3D99 /* ContentView.swift */,
+				680E07E125CE29B1000B3D99 /* SleepCalculator.mlmodel */,
 				680E07D525CDE884000B3D99 /* Assets.xcassets */,
 				680E07DA25CDE884000B3D99 /* Info.plist */,
 				680E07D725CDE884000B3D99 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				680E07D425CDE882000B3D99 /* ContentView.swift in Sources */,
+				680E07E225CE29B1000B3D99 /* SleepCalculator.mlmodel in Sources */,
 				680E07D225CDE882000B3D99 /* HWS_BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
